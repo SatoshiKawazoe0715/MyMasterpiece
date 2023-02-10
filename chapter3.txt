@@ -1,1 +1,5 @@
 It was the sprint of hope, it was the winter of despair.
+
+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
+
+remote: Permission to satoshiKawazoe/My-mastepiece.git denied to satoshiKawazoe.
